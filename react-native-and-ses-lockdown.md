@@ -419,7 +419,7 @@ To the following files...
 
 ...Do the following change:
 
-`"main": "src/index.js",` - > `"main": "src/index.js",`
+`"main": "lib/index.js",` - > `"main": "src/index.js",`
 
 And invoke `npx patch-package --exclude "nothing" <LIB_NAME>`.
 This flag `--exclude` is needed to be able to include the `package.json` file into the patch.
