@@ -42,7 +42,6 @@
 ```bash
 # Stop!
 # Make sure that you installed node, sentry, react native, xcode, etc etc.
-# See the README of MM Mobile.
 
 git clone git@github.com:bentobox19/metamask-mobile.git mobile
 cd mobile
